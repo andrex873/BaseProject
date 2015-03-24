@@ -32,6 +32,7 @@
         <ejb-spec-version>3.2</ejb-spec-version>
     </properties>
 
+    <!-- Dependency management -->
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -98,20 +99,6 @@
                         </webResources>
                     </configuration>
                 </plugin>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </plugins>
         </pluginManagement>
     </build>
